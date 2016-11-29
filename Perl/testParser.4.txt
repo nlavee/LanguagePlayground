@@ -1,0 +1,1 @@
+program Testwhilstatement begin while -a9088879dh <> +99 * 234 do a:=hfjdkfhdkjfhd; if -999 >= -1 then read(gettingthere) else ojhu:=9999     end

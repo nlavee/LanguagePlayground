@@ -1,0 +1,3 @@
+program Testfull begin a:=-bc; read(d1);
+write(-az<>+za);begin d:=-PUFHIF end; 
+if 987 < 76 then while -az do read(o99) end

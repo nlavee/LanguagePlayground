@@ -1,0 +1,8 @@
+This is a t3st that test whether the counting test actually works. the
+idea is that 3 people can type 100 different things into this.
+
+vu.nguyen@skidmore.edu
+s@r@t0g@_Sp1NG, NY
+
+List<Integer> a = new ArrayList<>();
+List<Integer> b = new ArrayList<>();

@@ -1,0 +1,9 @@
+program Thisisatestname 
+begin varA1 :=+99/
+var;read(varA2,varA3);
+write(-(90-varA6/3), +998*varA4+varA5<>+123*2+(99>=-3/varA7));
+begin if 99 then varA8:=88 else read(varA9); 
+while varA10 > 2 do 
+read(varA11); begin write(-varA12) end 
+end 
+end

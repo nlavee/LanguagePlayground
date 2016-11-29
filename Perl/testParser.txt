@@ -1,0 +1,3 @@
+program Testproject 
+begin b := c - a / m ; 
+read ( TESTVAR ) end                
