@@ -2,6 +2,6 @@ This is a repo that is aimed as a playground for me as I tried out languages and
 
 List of langauges I'm tampering with:
 * Perl
-* Scheme (coming soon)
+* Scheme
 
 anhvu.nguyenlam@gmail.com
